@@ -19,6 +19,7 @@ The Eden Trails AR prototype has been built with Ionic and the Wikitude Cordova 
 NSCameraUsageDescription and in the value field enter something like like "This app needs the camera for Augmented Reality."
 NSLocationWhenInUseUsageDescription, and a value like "This app needs your location for Geo AR"
 NSPhotoLibraryUsageDescription, and a value like "This app needs to access your photo gallery such that you can share your screenshots"
+
 7. To test on iOS, compile your project with: `$ ionic build ios`
 
 Further details from https://github.com/pbreuss/wikitude-ionic-2-starter-app:
